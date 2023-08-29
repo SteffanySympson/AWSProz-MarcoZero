@@ -84,7 +84,7 @@ input.btn {
   margin-bottom: 40px;
   padding-bottom: 10px;
   font-family: 'Lato', sans-serif;
-  font-size: 2em;
+  font-size: 1.5em;
   font-weight: bold;
   text-transform: uppercase;
   text-align: center;
@@ -134,7 +134,7 @@ input.btn {
   width: 40px;
   height: 40px;
   line-height: 45px;
-  font-size: 1.8em;
+  font-size: 1.4em;
   float: right;
   cursor: pointer;
   margin: 30px 8px;
@@ -182,7 +182,7 @@ input.btn {
     font-family: 'Lato', sans-serif;
     text-decoration: none;
     color: #3e94c5;
-    font-size: 5em;
+    font-size: 3em;
   }
 
   .mainHeaderNavItem:hover, .mainHeaderNavItem>a:hover {
@@ -379,7 +379,7 @@ input.btn {
   float: left;
   color: #003035;
   padding: 30px 0;
-  font-size: 1.6em;
+  font-size: 1.2em;
 }
 
 .sectionAbout .descriptionAbout p {
@@ -387,7 +387,7 @@ input.btn {
   /* float: center; */
   text-align: justify;
   font-family: 'Lato';
-  font-size: 1.4em;
+  font-size: 1em;
   color: #4d4d4d;
   justify-content: center;
   padding: 0.4em 0em;
@@ -406,7 +406,7 @@ input.btn {
   text-align: center;
   float: justify;
   color: #1FADBC;
-  font-size: 1.6em;
+  font-size: 1.2em;
 }
 
 .travelDestinations .desc p {
@@ -414,7 +414,7 @@ input.btn {
   float: center;
   text-align: center;
   font-family: 'Lato';
-  font-size: 1.3em;
+  font-size: 1em;
   color: #4d4d4d;
   justify-content: center;
   padding: 0.4em 0em;

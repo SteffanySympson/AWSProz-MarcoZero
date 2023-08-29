@@ -204,12 +204,12 @@ input.btn {
 
 /*PAG*/
 
-.sectionChamada {
+.sectionInitial {
   padding: 0em 0;
   background-color: #fff;
 }
 
-.sectionChamada .content {
+.sectionInitial .content {
   width: 100%;
   padding: 0;
   margin: 0;
@@ -288,7 +288,7 @@ input.btn {
   padding: 0.5em 0 0em 0;
 }
 
-.travelDestinations {
+.whatToDo {
   width: 100%;
   height: 80vh;
   background-color: #ffffff;
@@ -305,7 +305,7 @@ input.btn {
   -webkit-transition: all 500ms;
 }
 
-.travelDestinations .cover {
+.whatToDo .cover {
   overflow: hidden;
   position: relative;
 }
@@ -320,7 +320,7 @@ input.btn {
   display: block;
 }
 
-.travelDestinations .desc {
+.whatToDo .whatToDoDescription {
   background-color: transparent;
   width: 100%;
   float: left;
@@ -352,7 +352,7 @@ input.btn {
   text-align: center;
 }
 
-.whatToDoImage2 {
+.imageAbout {
   width: 740px;
   height: 415px;
   border: 0;
@@ -396,12 +396,7 @@ input.btn {
 
 
 
-
-
-
-
-
-.travelDestinations .desc h2 {
+.whatToDo .whatToDoDescription h2 {
   width: 100%;
   text-align: center;
   float: justify;
@@ -409,21 +404,16 @@ input.btn {
   font-size: 1.2em;
 }
 
-.travelDestinations .desc p {
+.whatToDo .whatToDoDescription p {
   width: 100%;
   float: center;
   text-align: center;
   font-family: 'Lato';
-  font-size: 1em;
+  font-size: 0.8em;
   color: #4d4d4d;
   justify-content: center;
   padding: 0.4em 0em;
 }
-
-/* END DESTINATION*/
-
-
-/*GALERY*/
 
 .sectionGalery {
   background-color: #ffffff;
@@ -874,7 +864,7 @@ input.btn {
     text-align: left;
   }
 
-  .blockArticle .desc h3 {
+  .blockArticle .whatToDoDescription h3 {
     font-size: 1.5em;
   }
 
@@ -937,12 +927,12 @@ input.btn {
     margin-right: 0;
   }
 
-  .travelDestinations {
+  .whatToDo {
     width: 32%;
     margin-right: 2%;
   }
 
-  .travelDestinations:nth-of-type(3n+0) {
+  .whatToDo:nth-of-type(3n+0) {
     margin-right: 0;
   }
 
@@ -1068,7 +1058,7 @@ input.btn {
     margin-right: 0;
   }
 
-  .travelDestinations .desc p {
+  .whatToDo .whatToDoDescription p {
     min-height: 120px;
   }
 

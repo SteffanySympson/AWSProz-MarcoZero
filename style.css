@@ -115,7 +115,7 @@ input.btn {
 
 .mainHeader .fixed {
   display: block;
-  position: fixed;
+  position: fixed; 
   z-index: 99;
 }
 
